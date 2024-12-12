@@ -1,0 +1,22 @@
+.recipe-detail {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .recipe-detail img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  
+  .recipe-detail h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .recipe-detail p {
+    font-size: 16px;
+    color: #555;
+  }
+  
